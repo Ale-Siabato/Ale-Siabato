@@ -1,5 +1,15 @@
-### Hi there 👋
-
+### Hi, I'm Alexandra👋
+ 🌎 Vivo en Colombia
+ 🎈 Tengo 17 años
+ 📆 Capricornio
+ 💻 Actualmente estoy aprendiendo Analisis y Desarrollo de sistemas de Información
+ 🎸 Estoy aprendiendo a tocar Guitarra
+ 💬 Realizo escritos cortos
+ ⚽ Me gusta el deporte
+ 📗 Leo
+ 🌟 Abierta a los nuevos aprendizajes 
+ ⚡ 
+ 
 <!--
 **Ale-Siabato/Ale-Siabato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
